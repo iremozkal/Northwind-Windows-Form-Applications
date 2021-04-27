@@ -1,0 +1,14 @@
+C:\Users\irem\Documents\Visual Studio 2012\Projects\Learning\Solution1\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+C:\Users\irem\Documents\Visual Studio 2012\Projects\Learning\Solution1\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+C:\Users\irem\Documents\Visual Studio 2012\Projects\Learning\Solution1\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+C:\Users\irem\Documents\Visual Studio 2012\Projects\Learning\Solution1\Northwind.Entites\obj\Debug\Northwind.Entites.pdb
+D:\Diğer\Çalışmalar\.net Projects\Learning\Solution1\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+D:\Diğer\Çalışmalar\.net Projects\Learning\Solution1\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+D:\Diğer\Çalışmalar\.net Projects\Learning\Solution1\Northwind.Entites\obj\Debug\Northwind.Entites.csprojResolveAssemblyReference.cache
+D:\Diğer\Çalışmalar\.net Projects\Learning\Solution1\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+D:\Diğer\Çalışmalar\.net Projects\Learning\Solution1\Northwind.Entites\obj\Debug\Northwind.Entites.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Northwind Windows Form Application2\Northwind.Entites\bin\Debug\Northwind.Entites.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Northwind Windows Form Application2\Northwind.Entites\bin\Debug\Northwind.Entites.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Northwind Windows Form Application2\Northwind.Entites\obj\Debug\Northwind.Entites.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Northwind Windows Form Application2\Northwind.Entites\obj\Debug\Northwind.Entites.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Northwind Windows Form Application2\Northwind.Entites\obj\Debug\Northwind.Entites.pdb
